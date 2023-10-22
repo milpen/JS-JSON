@@ -1,17 +1,31 @@
+.body {
+    background-color: bisque;
+}
+
 .task-list {
     display: flex;
-  
-  }
-  .task-list_container {
+
+}
+.task-list_container {
     margin-right: 50px;
-  }
-  .grey {
+}
+.grey {
     color: grey;
     list-style-type: none;
-  }
-  .task-list_list{
+}
+.task-list_list{
     list-style-type: none;
-  }
-  .hidden {
+}
+.hidden {
     display: none;
-  }
+}
+
+#btn-delete{
+width: 200px;
+height: 30px;
+cursor: pointer;
+}
+
+#input-btn{
+    cursor: pointer;
+}
