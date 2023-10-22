@@ -1,0 +1,17 @@
+.task-list {
+    display: flex;
+  
+  }
+  .task-list_container {
+    margin-right: 50px;
+  }
+  .grey {
+    color: grey;
+    list-style-type: none;
+  }
+  .task-list_list{
+    list-style-type: none;
+  }
+  .hidden {
+    display: none;
+  }
